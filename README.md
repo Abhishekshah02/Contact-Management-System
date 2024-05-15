@@ -1,4 +1,3 @@
-# PRODIGY_SD_03
 # CONTACT MANAGEMENT SYSTEM
 
 It is a conatact management system designed in python using tkinter. Here, it has the option to add conatact, edit contact, search contact, and delete contact.
